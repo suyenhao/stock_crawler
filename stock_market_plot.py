@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Fri Aug 13 20:50:23 2021
 
 @author: su
 """
